@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972569731386",
+    "project_id": "firebasse-lab3",
+    "storage_bucket": "firebasse-lab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972569731386:android:c09013e246532d46967003",
+        "android_client_info": {
+          "package_name": "com.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXt2Mn_EApHHGduT6CfhSiCSwbA8PFGR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
